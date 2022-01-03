@@ -12,4 +12,14 @@
         android:layout_height="wrap_content"
         android:text="두번째 안드로이드 수업이네!"/>
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="하나도 기억이 안나 다 까먹었어요 ㅜㅜ" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="그래도 괜찮아요 잘 따라갈거에요" />
+
 </LinearLayout>
